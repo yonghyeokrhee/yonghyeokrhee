@@ -56,7 +56,6 @@
 ## 🎯 Current Focus
 - **Advanced MLOps**: Building end-to-end ML pipelines with automated deployment
 - **Real-time Recommendation**: Low-latency personalization systems
-- **Multi-modal ML**: Integrating text, image, and behavioral data for recommendations
 
 ## 🌐 Community & Contributions
 - 🎤 **Speaker**: AWS Korea User Group, Korea R User Group
@@ -64,9 +63,9 @@
 - 🔧 **Open Source Contributor**: ML infrastructure and recommendation system projects
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 💼 LinkedIn: [www.linkedin.com/in/yong]
+- 📧 Email: [joshuaisland@gmail.com]
+- 🌐 Tech Blog: [https://velog.io/@yonghyeokrhee/posts]
 
 ---
 
