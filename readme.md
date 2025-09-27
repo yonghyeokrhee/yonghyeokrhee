@@ -60,7 +60,7 @@
 ## 🌐 Community & Contributions
 - 🎤 **Speaker**: AWS Korea User Group, Korea R User Group
 - 📖 **Technical Reviewer**: O'Reilly Korea publications
-- 🔧 **Open Source Contributor**: ML infrastructure and recommendation system projects
+- 🔧 **Open Source Contributor**: Apache Airflow, AWS Sagemaker and other machine learnign open-sources
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [www.linkedin.com/in/yong]
